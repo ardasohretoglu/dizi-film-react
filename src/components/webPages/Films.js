@@ -108,8 +108,7 @@ class HomePage extends Component {
             <Container style={{
                 marginTop: '500px'
             }}>
-                Burda : {this.props.searchingWord}
-                <br></br>
+                
 
                 <Row className="mb-5">
 
