@@ -1,0 +1,13 @@
+
+.textField .MuiInputBase-root {
+    color: ivory !important;
+}
+.textField .MuiInput-underline:after{
+    border-bottom: 2px solid ivory;
+}
+.textField .MuiInput-underline:before{
+    border-bottom: 1px solid ivory;
+}
+.textField .MuiInput-underline:hover:not(.Mui-disabled):before{
+    border-bottom: 1px solid ivory;
+}
