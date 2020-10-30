@@ -188,7 +188,7 @@ class HomePage extends Component {
                         <h3>Diziler</h3>
                     </Col>
 
-                    {/* SERİES START */}
+                    {/* SERIES START */}
                     {this
                         .state
                         .series
